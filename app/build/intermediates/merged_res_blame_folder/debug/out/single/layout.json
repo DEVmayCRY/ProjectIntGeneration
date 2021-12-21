@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\ProjetoDosIntegramento\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_form_task.xml",
+        "source": "D:\\AndroidStudio\\ProjetoDosIntegramento\\app\\src\\main\\res\\layout\\activity_form_task.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ProjetoDosIntegramento\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_trashcan_fragment.xml",
+        "source": "D:\\AndroidStudio\\ProjetoDosIntegramento\\app\\src\\main\\res\\layout\\fragment_trashcan_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ProjetoDosIntegramento\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\header_menu.xml",
+        "source": "D:\\AndroidStudio\\ProjetoDosIntegramento\\app\\src\\main\\res\\layout\\header_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ProjetoDosIntegramento\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\card_layout.xml",
+        "source": "D:\\AndroidStudio\\ProjetoDosIntegramento\\app\\src\\main\\res\\layout\\card_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ProjetoDosIntegramento\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\create_user.xml",
+        "source": "D:\\AndroidStudio\\ProjetoDosIntegramento\\app\\src\\main\\res\\layout\\create_user.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ProjetoDosIntegramento\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_cration_task_fragment.xml",
+        "source": "D:\\AndroidStudio\\ProjetoDosIntegramento\\app\\src\\main\\res\\layout\\fragment_cration_task_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ProjetoDosIntegramento\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_centermenu.xml",
+        "source": "D:\\AndroidStudio\\ProjetoDosIntegramento\\app\\src\\main\\res\\layout\\activity_centermenu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ProjetoDosIntegramento\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudio\\ProjetoDosIntegramento\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\ProjetoDosIntegramento\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_task_list_fragment.xml",
+        "source": "D:\\AndroidStudio\\ProjetoDosIntegramento\\app\\src\\main\\res\\layout\\fragment_task_list_fragment.xml"
+    }
+]
